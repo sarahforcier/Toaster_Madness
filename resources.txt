@@ -1,0 +1,5 @@
+Resources:
+
+
+* Mouse click and touch events: https://www.youtube.com/watch?v=eddauM-nP4U 
+* Picking up objects with the mouse: https://www.youtube.com/watch?v=8sdUW8VG18Q
