@@ -1,0 +1,8 @@
+Resources:
+
+
+* Mouse click and touch events: https://www.youtube.com/watch?v=eddauM-nP4U 
+* Picking up objects with the mouse: https://www.youtube.com/watch?v=8sdUW8VG18Q
+* Unreal mouse interface set up: https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/MouseInterface/index.html 
+* Explanation of get hit result under cursor: https://www.youtube.com/watch?v=uMjnbnQd1dI
+
