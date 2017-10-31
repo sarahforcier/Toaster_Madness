@@ -1,8 +1,62 @@
 Resources:
 
 
-* Mouse click and touch events: https://www.youtube.com/watch?v=eddauM-nP4U 
-* Picking up objects with the mouse: https://www.youtube.com/watch?v=8sdUW8VG18Q
-* Unreal mouse interface set up: https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/MouseInterface/index.html 
-* Explanation of get hit result under cursor: https://www.youtube.com/watch?v=uMjnbnQd1dI
+* Mouse click and touch events: ----- https://www.youtube.com/watch?v=eddauM-nP4U 
+* Picking up objects with the mouse: ----- https://www.youtube.com/watch?v=8sdUW8VG18Q
+* Unreal mouse interface set up: ----- https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/MouseInterface/index.html 
+* Explanation of get hit result under cursor: ----- https://www.youtube.com/watch?v=uMjnbnQd1dI
 
+
+----- https://docs.unrealengine.com/latest/images/Resources/ContentExamples/MouseInterface/BlueprintActors/MI_SphereGraph.png
+
+----- https://www.youtube.com/watch?v=uMjnbnQd1dI
+
+
+----- https://answers.unrealengine.com/questions/76638/collision-issues-with-blueprints-but-not-static-me.html
+
+----- https://forums.unrealengine.com/development-discussion/blueprint-visual-scripting/63393-get-controller-get-player-controller-same-but-different
+
+
+
+
+
+----- 
+https://github.com/sarahforcier/Toaster_Madness
+----- 
+https://www.youtube.com/watch?v=eddauM-nP4U
+----- 
+https://www.youtube.com/watch?v=8sdUW8VG18Q
+----- 
+https://forums.unrealengine.com/filedata/fetch?id=1056766&d=1410889855
+----- 
+https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/MouseInterface/BlueprintActors/index.html
+----- 
+https://docs.unrealengine.com/latest/INT/Resources/ContentExamples/MouseInterface/SettingsAndCursors/index.html
+-----
+ https://answers.unrealengine.com/questions/56656/how-do-you-raytrace-the-mouse-screen-position-onto.html
+----- 
+https://docs.unrealengine.com/latest/INT/Gameplay/HowTo/ReferenceAssets/Blueprints/
+----- 
+https://www.google.com/search?q=ue4+blueprint+not+receiving+keyboard+event&rlz=1C1CHBF_enUS734US734&oq=ue4+blueprint+not+receiving+keyboard+event&aqs=chrome..69i57.13023j0j1&sourceid=chrome&ie=UTF-8
+----- 
+https://answers.unrealengine.com/questions/19063/input-keypress-does-not-work.html
+-----
+ https://www.google.com/search?q=ue4+multiple+blueprint+input&rlz=1C1CHBF_enUS734US734&oq=ue4+multiple+blueprint+input&aqs=chrome..69i57.47983j0j1&sourceid=chrome&ie=UTF-8
+----- 
+https://answers.unrealengine.com/questions/246769/how-to-enable-input-on-multiple-instances.html
+----- 
+https://answers.unrealengine.com/questions/91424/changing-input-on-one-bp-stops-the-other.html
+-----
+ https://www.google.com/search?q=ue4+check+if+actor+exists&rlz=1C1CHBF_enUS734US734&oq=ue4+check+if+actor+exists&aqs=chrome..69i57.4831j0j1&sourceid=chrome&ie=UTF-8
+-----
+ https://answers.unrealengine.com/questions/154357/is-there-an-exists-in-scene-node.html
+-----
+ https://www.google.com/search?q=ue4+invisible+wall+raycast&rlz=1C1CHBF_enUS734US734&oq=ue4+invisible+wall+raycast&aqs=chrome..69i57.5103j0j1&sourceid=chrome&ie=UTF-8
+----- 
+https://answers.unrealengine.com/questions/29150/top-down-templ-walking-past-invisible-walls.html
+----- https://www.unrealengine.com/en-US/blog/collision-filtering
+----- https://answers.unrealengine.com/questions/225266/raycast-ignore-everything-except-overlap.html
+----- https://www.google.com/search?q=ue4+click+vs+press&rlz=1C1CHBF_enUS734US734&oq=ue4+click+vs+press&aqs=chrome..69i57.2751j0j1&sourceid=chrome&ie=UTF-8
+----- https://answers.unrealengine.com/questions/438398/a-simple-question-about-click-press-hold.html
+----- https://www.google.com/search?q=ue4+on+actor+right+click&rlz=1C1CHBF_enUS734US734&oq=ue4+on+actor+right+click&aqs=chrome..69i57.5711j0j1&sourceid=chrome&ie=UTF-8
+----- https://answers.unrealengine.com/questions/134349/right-click-on-an-actor.html
